@@ -1,3 +1,6 @@
+*.bak
+*.mat
+*.pyc
 .idea
-*~
-.caffemodel
+.ipynb_checkpoints
+tags
